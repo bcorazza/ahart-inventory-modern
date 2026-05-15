@@ -1,3 +1,3 @@
 # Ahart Inventory Modern
 
-Modern chemical sourcing and inventory application for Ahart Chemical Co.
+Modern chemical sourcing app for Ahart Chemical Co.
